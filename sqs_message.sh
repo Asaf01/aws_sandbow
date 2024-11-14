@@ -9,4 +9,4 @@ do
 --message-group-id "$i" \
 --message-deduplication-id "$i"
  done
- ## 
+ ## 120 messages sent to the queue for scale up
